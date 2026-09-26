@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ulgt_archipelago_transfer": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
